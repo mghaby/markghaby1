@@ -1,0 +1,197 @@
+commit 27c59c0b785c57675ea1f254351ff3f800191e45
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Fri Sep 4 11:54:34 2020 +0000
+
+    we are finished
+
+commit 1ff08c9a2ea0d8a90d1793d8e9b4aaee5d1b3547
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Fri Sep 4 11:39:58 2020 +0000
+
+    make code cleaner and submit
+
+commit 325f76bb0efce2f584492b6c3432ac7e9e55fd3d
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Fri Sep 4 09:30:30 2020 +0000
+
+    all pages are done, make code look better
+
+commit 7e90dbd42b923946e56c27b99da1d4a194e6304f
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Fri Sep 4 09:18:22 2020 +0000
+
+    website basically done, need to do asthetic sprinkles
+
+commit a530240e8e30816db27bffe7a426a2cff579eacb
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Fri Sep 4 06:46:33 2020 +0000
+
+    all icons on all pages are done, fix aca history
+
+commit f477efb415f39b13f30d72069b7c8973a79d20b0
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Thu Sep 3 08:31:54 2020 +0000
+
+    flex added for all the icons, just need to add links and fix aca history media
+
+commit 7985a8ec46e03147234d4f89a053e3745acd9112
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Thu Sep 3 08:24:44 2020 +0000
+
+    icons on blogs are half done, copy layout for all other pages
+
+commit 0bf307793046587aa923ddb43ed6cd71e2389828
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Thu Sep 3 08:14:50 2020 +0000
+
+    proper images added to pages
+
+commit d99019180be855b06ce84bd469f72c510889d259
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Thu Sep 3 07:37:26 2020 +0000
+
+    personal is done, fix acadenic history page with media query
+
+commit b055413b0d6116263779d4f1132683f35009c620
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Thu Sep 3 05:34:51 2020 +0000
+
+    personal history photo added, need list on blog page
+
+commit 20c3d7b41f47183ae86dacb0a2f7238ad4a9bfce
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Thu Sep 3 05:30:16 2020 +0000
+
+    personal history needs photo, blog page done
+
+commit b9cdfd54a4bb1e1e77f9a0b76076bc6f415d480c
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Wed Sep 2 14:05:27 2020 +0000
+
+    backgrounds added on all pages, still need footer icons
+
+commit 8a9b75fe22c55effe15bacd6245d32e49e61cb30
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Wed Sep 2 14:03:00 2020 +0000
+
+    home gradient done, still need to flex icons on bottom
+
+commit ce3c99ee18bce5b61bbc2388a76181598e1acaae
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Wed Sep 2 07:14:20 2020 +0000
+
+    new homepage half done, need to fix the gradient
+
+commit 34d5fa30ec08f85c23dac68a7acbb0bdbe105d65
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Mon Aug 31 12:58:07 2020 +0000
+
+    made a new file to test a proper home page, made a section on css for it too, still need to link icons and make a list for the blog
+
+commit 1c2c96bc43d42ddff83bbf1989678cf74a8cf18b
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Mon Aug 31 12:44:45 2020 +0000
+
+    blog page done essentially, need to work on icons and home page
+
+commit a0626b584c8592a702d894edc3c7db0379652ac5
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Mon Aug 31 08:44:46 2020 +0000
+
+    first blog post done, copy it for others
+
+commit c44c5586a25f39db88cdb7aaeb281a58dcb68065
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Mon Aug 31 08:14:45 2020 +0000
+
+    some formatting work done
+
+commit 2cd45ce24ee400296e084f4e92189d31e0af7a32
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Mon Aug 31 08:01:47 2020 +0000
+
+    all base pages are in
+
+commit 31a299b6aac423c0ee55386ae5f73300c931b725
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sun Aug 30 12:26:11 2020 +0000
+
+    changed icon labels
+
+commit 092a010beb9d13cae9371387218a3f84e7164732
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sun Aug 30 12:24:30 2020 +0000
+
+    changed icon section to footer on both pages
+
+commit ca359d4c1b39f05c6dd8ba6bbcb3746259570d14
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sun Aug 30 12:24:02 2020 +0000
+
+    changed icon section to footer on both pages
+
+commit 24e77902eadc5a3639842b47aa33f326f2f610b0
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sun Aug 30 11:22:24 2020 +0000
+
+    history is done, just need to add icons
+
+commit 29729dca8b4220bda86010ac2e841e14394489ee
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sun Aug 30 10:59:19 2020 +0000
+
+    still need to do cqu and ca on history
+
+commit 06946cde8705bbe1403b7f2057e68d6a1a8a3cad
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sat Aug 29 13:34:50 2020 +0000
+
+    images for history are in and formatted, change descriptions
+
+commit 6521c12b1b4745bd0d9ecdfe79185d25fae3fc1d
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sat Aug 29 13:06:50 2020 +0000
+
+    first history segment done, copy that format
+
+commit 41ae27eb8215d803b6e925df29e4cbb0db8caed2
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sat Aug 29 12:02:31 2020 +0000
+
+    alt text set for images so far, start on history
+
+commit 5f936b5097a9a742cbe8698d11ab05a5428e047f
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sat Aug 29 11:35:50 2020 +0000
+
+    center text on home, center icons on home, start history
+
+commit b76b62f507d8fdfdf6c59034e5d6a04bd8ca85d1
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sat Aug 29 10:24:01 2020 +0000
+
+    top nav bar added and slight css added for it, some links have been made to other pages
+
+commit faaf25bfa6310f046cc124b099536f1dd0593303
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sat Aug 29 10:18:09 2020 +0000
+
+    icons added, still need to be formatted and href'ed
+
+commit 66b21583b3b27ffece5af8f9516e1888058e74a3
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Sat Aug 29 10:00:36 2020 +0000
+
+    updated home img to id and made icon section, still need to add icons
+
+commit 05cd793a4f6f3f1d33e50da36c9820883a40adcd
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Fri Aug 28 07:18:39 2020 +0000
+
+    add icons and redirection links in the section created
+
+commit 61d69b30e43094f13161f942abe0b4270a346088
+Author: Mark Ghaby <cas022044@coderacademy.edu.au>
+Date:   Fri Aug 28 04:47:19 2020 +0000
+
+    setup index- css is linked
